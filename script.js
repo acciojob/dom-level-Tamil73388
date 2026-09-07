@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let start=document.queryselector(".level")
+let start=document.querySelector("#level")
 let crnt=start
 
 let alert=0;
