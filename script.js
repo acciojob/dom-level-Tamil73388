@@ -5,6 +5,6 @@ let crnt=start
 let alert=0;
 while(crnt.parentElement){
 	alert++
-	crnt=start.parentElement	
+	crnt=crnt.parentElement	
 }
 alert(`The Level of the Element is: ${alert}`)
